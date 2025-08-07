@@ -1,16 +1,22 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=840705&height=120&section=header"/>
 
-<!--
-**MatheusMirandaDev/MatheusMirandaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">  
 
-Here are some ideas to get you started:
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusMirandaDev&bg_color=260000&color=F0E785&line=F0E785&point=E53D8F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ 
+### 💻 My skills:
+
+
+ 
+### 📚 Studying in this moment:
+
+
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MatheusMirandaDev/count.svg" /></p>
+
+<div align="center">  
+</div> 
