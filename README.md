@@ -1,5 +1,5 @@
 # About Me:
-Olá, sou o Matheus, mas meus amigos me chamam de Miranda!<br>Sou Desenvolvedor Backend apaixonado por resolver problemas com tecnologia e criar soluções diferentes.
+Olá, sou o Matheus, mas meus amigos me chamam de Miranda.<br>Sou Desenvolvedor Backend apaixonado por tecnologia e suas inovações!
 
 
 ## 🌐 Socials:
